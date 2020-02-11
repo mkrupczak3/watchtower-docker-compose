@@ -1,5 +1,5 @@
 # watchtower-docker-compose
-auto updating support for any docker compose'd setup
+### auto updating support for any docker compose'd setup
 
 
 Hi,
